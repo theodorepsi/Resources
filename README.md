@@ -20,3 +20,5 @@ Just images
 <img width="958" alt="frequencydata" src="https://user-images.githubusercontent.com/88879534/217826731-f1bdfed3-2e0b-4f63-bc93-d877caf50354.png">
 <img width="959" alt="importanfeatures" src="https://user-images.githubusercontent.com/88879534/217826737-9b1d23fc-ad64-454e-a7a7-6c2f8419b5eb.png">
 <img width="959" alt="anomaly" src="https://user-images.githubusercontent.com/88879534/217827983-f83dafd9-bc5f-4835-82e9-b844b96c60ec.png">
+
+![AiDE_Logo(1)](https://user-images.githubusercontent.com/88879534/219031113-6a970c63-c3a6-47dd-824a-738e545dd189.png)
